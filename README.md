@@ -30,3 +30,6 @@ The next thing I did was adding a cache. This will optimize the website after yo
 I had some issues with using branches. I commited and pushed everything and merged my changes, but my files in my atom where resetted to the start. Like there was nothing changed. I started to pannic for about an hour before Mo helped me out. I probably messed something up, but I didn't wanted to risk it, so my last few changes were not merged with a branch, but by pushing it to the master branch. Sorry.
 
 I don't know if everything is updated to how I have it on localhost. *awkward looking smiley*
+
+## What I still want to do
+* Critical CSS - After what happend with the branche stuff I was scared of doing more stuff, because I may lose more progress. IF I have dealt with the issue I will try to do more stuff.
